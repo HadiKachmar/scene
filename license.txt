@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mopanui Studio & Homes
+* source:	https://sketchfab.com/3d-models/mopanui-studio-homes-cfd868e3909b4d16ac1724279b8b852e
+* author:	Rick Peters (https://sketchfab.com/rickpetersnz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mopanui Studio & Homes" (https://sketchfab.com/3d-models/mopanui-studio-homes-cfd868e3909b4d16ac1724279b8b852e) by Rick Peters (https://sketchfab.com/rickpetersnz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
